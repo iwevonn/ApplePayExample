@@ -1,5 +1,0 @@
-language: objective-c
-osx_image: xcode8.2
-script:
-- xcodebuild clean -project ApplePayExample.xcodeproj -scheme ApplePayExample -configuration Debug -sdk iphoneos
-- xcodebuild -project ApplePayExample.xcodeproj -scheme ApplePayExample -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
