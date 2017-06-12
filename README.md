@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/iwevonn/ApplePayExample.svg?branch=master)](https://travis-ci.org/iwevonn/ApplePayExample)
 
 ![](http://upload-images.jianshu.io/upload_images/1511939-63bbdb6559a91a35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
